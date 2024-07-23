@@ -22,7 +22,7 @@ review_score = {10: '4 - Very Positive',
                 8: '3 - Mostly Positive',
                 7: '2 - Mixed',
                 6: '1 - Negative',
-                5: '1 -Negative'}
+                5: '1 - Negative'}
 data['overall_review'] = data['overall_review'].map(review_score)
 
 
