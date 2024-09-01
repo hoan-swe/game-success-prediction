@@ -2,7 +2,7 @@
 
 ## Overview
 
-### Application link: http://3.91.207.237:8501/
+### Application link: http://thebuildercorner.com/demos/success-prediction-demo.html
 
 The Game Success Prediction Application is designed to predict the potential success of video games based on various features and characteristics. 
 This application utilizes machine learning techniques, specifically a Multi-Layer Perceptron Classifier (MLPClassifier), 
@@ -19,7 +19,7 @@ To use the application, follow these steps:
 
 ### Web app:
 1. Open a web browser
-2. Go to http://3.91.207.237:8501/
+2. Go to http://thebuildercorner.com/demos/success-prediction-demo.html
 3. Select/toggle features, genres and platforms the potential game will be in
 4. Click ‘Predict’ button to see the result
 5. Click on ‘Details’ expander to see more information
